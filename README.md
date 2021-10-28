@@ -1,2 +1,1 @@
-# flutterApp
-Yazdığım Flutter Projeleri...
+# Let's Talk App
